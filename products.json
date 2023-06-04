@@ -1,0 +1,26 @@
+[
+    {
+      "name": "BMW m5",
+      "image": "pictures/m55.jpg",
+      "price": "$75.000"
+    },
+    
+    {
+        "name": "BMW X5",
+        "image": "pictures/X55.jpg",
+        "price": "$52.000"
+      },
+      
+      {
+        "name": "BMW I5",
+        "image": "pictures/I55.jpg",
+        "price": "€118.000"
+      },
+      
+      {
+        "name": "BMW M3",
+        "image": "pictures/m33.jpg",
+        "price": "€82.000"
+      }
+      
+  ]
